@@ -1,0 +1,37 @@
+#iataFormField {
+  width:50px !important;
+}
+
+#nameFormField, #cityFormField {
+  width:458px !important;
+}
+
+#departureHubFormField, #arrivalAirportFormField, #countryFormField, #regionFormField {
+  width:430px !important;
+}
+
+.flagsList {
+  margin-right: 5px;
+
+  img {
+    height: 14px;
+    width: 18.66px;
+  }
+}
+
+.airportsList {
+  font-weight: bold;
+}
+
+.flagElementSelected {
+  margin-right: 10px;
+}
+
+#flagRegionSelected {
+  width:430px !important;
+
+  img {
+    height: 14px;
+    width: 18.66px;
+  }
+}
